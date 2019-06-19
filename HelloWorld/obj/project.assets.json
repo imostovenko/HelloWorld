@@ -688,28 +688,33 @@
     ]
   },
   "packageFolders": {
-    "/Users/irina/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\JustWilder\\.nuget\\packages\\": {},
+    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/irina/Documents/GitHub/HelloWorld/HelloWorld/HelloWorld.csproj",
+      "projectUniqueName": "C:\\Users\\JustWilder\\Source\\Repos\\imostovenko\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "/Users/irina/Documents/GitHub/HelloWorld/HelloWorld/HelloWorld.csproj",
-      "packagesPath": "/Users/irina/.nuget/packages/",
-      "outputPath": "/Users/irina/Documents/GitHub/HelloWorld/HelloWorld/obj/",
+      "projectPath": "C:\\Users\\JustWilder\\Source\\Repos\\imostovenko\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+      "packagesPath": "C:\\Users\\JustWilder\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\JustWilder\\Source\\Repos\\imostovenko\\HelloWorld\\HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        "C:\\Microsoft\\Xamarin\\NuGet\\",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "/Users/irina/.config/NuGet/NuGet.Config"
+        "C:\\Users\\JustWilder\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.1"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
