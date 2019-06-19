@@ -1,5 +1,5 @@
 ﻿<Properties StartupConfiguration="{E21A9F1B-8217-48F0-913B-8094AE514478}|Default">
-  <MonoDevelop.Ide.ItemProperties.HelloWorld FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.HelloWorld PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
     <Files>
       <File FileName="Program.cs" Line="13" Column="1" />
@@ -7,12 +7,15 @@
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="HelloWorld" expanded="True">
+          <Node name="HelloWorld" expanded="True" selected="True">
             <Node name="HelloWorld" expanded="True">
-              <Node name="Program.cs" selected="True" />
+              <Node name="Dependencies" expanded="True" />
             </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
